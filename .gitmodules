@@ -1,0 +1,9 @@
+[submodule "Assignments/Assign1/assignment-01-camera-calibration-rodosingh"]
+	path = Assignments/Assign1/assignment-01-camera-calibration-rodosingh
+	url = https://github.com/Computer-Vision-IIITH-2022/assignment-01-camera-calibration-rodosingh
+[submodule "Assignments/Assign3/assignment-three-image-segmentation-rodosingh"]
+	path = Assignments/Assign3/assignment-three-image-segmentation-rodosingh
+	url = https://github.com/Computer-Vision-IIITH-2022/assignment-three-image-segmentation-rodosingh
+[submodule "Assignments/Assign2/assignment-two-the-secrets-of-optical-flow-rodosingh"]
+	path = Assignments/Assign2/assignment-two-the-secrets-of-optical-flow-rodosingh
+	url = https://github.com/Computer-Vision-IIITH-2022/assignment-two-the-secrets-of-optical-flow-rodosingh

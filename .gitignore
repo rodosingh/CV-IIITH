@@ -1,0 +1,25 @@
+Assignments/**/.ipynb_checkpoints
+# Assignments/**/.git
+# Assignments/**/.gitignore
+Assignments/Assign2/Lukas-Kanade-Template-Tracker
+Assignments/Assign2/Template-tracking-with-drift-correction-Lucas-Kanade
+Assignments/Assign3/[gAs]*
+Assignments/helper materials
+Assignments/✨ Introducing Plotly Express ✨. Plotly Express is a new high-level… _ by plotly _ Plotly _ Medium.pdf
+Assignments/Visualization with Plotly.Express_ Comprehensive guide _ by Vaclav Dekanovsky _ Towards Data Science.pdf
+Lecture-Videos
+CV-Quizzes-Prev_Year/01_Intro.pdf
+books/Computer Vision Algorithms and Applications (Texts in Computer Science) by Richard Szeliski (z-lib.org).pdf
+MS-Assign
+books/Computer Vision Algorithms and Applications (Texts in Computer Science) by Richard Szeliski (z-lib.org).pdf
+CMU Slides
+Old-Slides
+image_rectification.pdf
+optical_flow.pdf
+spatial stats.pdf
+Lecture21.pdf
+# What to ignore and what not to...
+Project/**/*.pt
+Project/*
+!Project/MAT*/
+!Project/4*.pdf
